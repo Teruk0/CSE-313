@@ -2,7 +2,7 @@
 Group313 from CSE 120 project 
 
 Getting Setup;
-1. In a different code, open the coding terminal and type in:
+1. In a different code, or the command prompt open the coding terminal and type in:
 npm i express
 
 npm i nodemon -D
