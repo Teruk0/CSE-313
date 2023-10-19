@@ -7,15 +7,21 @@ npm i express
 
 npm i nodemon -D
 
+npm install react-scripts
+
 (nodemon lets you edit the server while updating automatically)
 
 2. Open the folder with the files and in order to open the backend type into the coding terminal:
+
+cd server 
 
 npm run dev
 
 you'll be able to find the page in localhost:5000/api
 
-3. if you want to open the frontend instead, you can just type npm start and it will open it in:
+3. if you want to open the frontend instead, you open a new terminal and can just do
+cd client type npm start 
 
+and it will open it in:
 localhost:3000
 
